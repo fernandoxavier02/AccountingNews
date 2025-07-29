@@ -1,0 +1,13 @@
+# Workspace version: 1.46.32
+python-multipart==0.0.9
+databutton==0.38.34
+ipykernel==6.29.5
+uvicorn[standard]==0.34.2
+fastapi==0.115.12
+openai
+beautifulsoup4
+requests
+asyncpg
+feedparser
+pydantic[email]
+aiohttp
